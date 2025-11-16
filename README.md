@@ -4,8 +4,7 @@ Graph Neural Network-based demand forecasting and shortage detection for supply 
 
 ## Features
 
-- **GNN Forecasting**: 111,969 verified product relationships using PyTorch Geometric
-- **Vision AI**: Stock photo analysis with LM Studio integration
+- **GNN Forecasting**: product relationships using PyTorch Geometric
 - **Shortage Detection**: Multi-factor risk scoring and substitution suggestions
 - **Real-time Predictions**: LSTM+GNN hybrid architecture for demand forecasting
 
