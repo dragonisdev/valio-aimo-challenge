@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# DO NOT PUSH REAL DATA FILES
+data/*.csv
+data/*.json
+
+# Large datasets
+data/
